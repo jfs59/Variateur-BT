@@ -1,0 +1,5 @@
+Variateur.apk : Programme Android de gestion BT.
+Variateur.ino.eightanaloginputs.hex : Dump hexa du programme Arduino.
+mod.ATmegaBOOT_168_atmega328.hex : Dump herxa du bootloader sans allumage D13.
+Variateur.ino.with_bootloader.eightanaloginputs.hex : Dump hexa du programme + bootloader.
+index.docx : Document word explicatif.
