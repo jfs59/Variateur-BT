@@ -12,6 +12,7 @@ Réalisation d’un variateur double pour bateau et d’un ensemble de 8 voies s
 
 </p> 
   </br> </br>
-  <p align="center">Schéma de principe
+  <p align="center">
+  Schéma de principe
   <img src="https://raw.githubusercontent.com/jfs59/Variateur-BT/master/schem.png">
 </p>
